@@ -9,6 +9,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Employee {
     private String name;
-    private int age;
-    private double salary;
+    private Integer age;
+    private Double salary;
 }

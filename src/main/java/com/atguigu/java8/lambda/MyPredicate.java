@@ -1,4 +1,4 @@
-package com.atguigu.java8;
+package com.atguigu.java8.lambda;
 
 import java.util.List;
 

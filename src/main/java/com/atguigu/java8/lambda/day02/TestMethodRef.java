@@ -1,6 +1,6 @@
-package com.atguigu.java8.day02;
+package com.atguigu.java8.lambda.day02;
 
-import com.atguigu.java8.Employee;
+import com.atguigu.java8.lambda.Employee;
 import org.junit.Test;
 
 import java.util.Comparator;

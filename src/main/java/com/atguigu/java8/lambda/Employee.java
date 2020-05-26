@@ -1,4 +1,4 @@
-package com.atguigu.java8;
+package com.atguigu.java8.lambda;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.atguigu.java8.day02;
+package com.atguigu.java8.lambda.day02;
 
 /**
  * java8四大核心函数式接口

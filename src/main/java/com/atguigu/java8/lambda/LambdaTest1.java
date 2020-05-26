@@ -1,4 +1,4 @@
-package com.atguigu.java8;
+package com.atguigu.java8.lambda;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.atguigu.java8;
+package com.atguigu.java8.lambda;
 
 
 public class MyPredicateSalary implements MyPredicate<Employee> {

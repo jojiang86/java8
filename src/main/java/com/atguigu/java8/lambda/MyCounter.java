@@ -1,4 +1,4 @@
-package com.atguigu.java8;
+package com.atguigu.java8.lambda;
 
 @FunctionalInterface
 public interface MyCounter<T,R> {

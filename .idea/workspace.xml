@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0b68568-ef11-46e5-97a2-49c15b9c1454" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/java8/jsonobject/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/java8/jsonobject/JSONTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/java8/jsonobject/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/java8/proxy/tryFifth/Traveller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software_dev/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\software_dev\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cHxk26AJBSkp2clCzHY7DTefu9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/atguigu/java8/stream" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\lambda\src\main\java\com\atguigu\java8\stream" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProxyTest.test1 (4)">
+    <configuration name="ProxyTest.test1 (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java8.proxy.tryThird.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.java8.proxy.tryThird" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java8.proxy.tryThird.ProxyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest.test1 (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java8.proxy.tryForth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.java8.proxy.tryForth" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java8.proxy.tryForth.ProxyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest.test1 (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java8.proxy.tryFifth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.java8.proxy.tryFifth" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java8.proxy.tryFifth.ProxyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java8.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.java8.proxy" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java8.proxy.ProxyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java8.proxy.tryThird.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.java8.proxy.tryThird" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java8.proxy.tryThird.ProxyTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProxyTest.test1 (4)" />
+        <item itemvalue="JUnit.ProxyTest.test1 (3)" />
+        <item itemvalue="JUnit.ProxyTest.test1" />
+        <item itemvalue="JUnit.ProxyTest.test2" />
+        <item itemvalue="JUnit.ProxyTest.test1 (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0b68568-ef11-46e5-97a2-49c15b9c1454" name="Default Changelist" comment="" />
+      <created>1590199460194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590199460194</updated>
+      <workItem from="1590199465745" duration="13238000" />
+      <workItem from="1590486395663" duration="960000" />
+      <workItem from="1590730861119" duration="648000" />
+      <workItem from="1591072438173" duration="87000" />
+      <workItem from="1591154798234" duration="5373000" />
+      <workItem from="1591240361383" duration="8176000" />
+      <workItem from="1591405562198" duration="10906000" />
+    </task>
+    <task id="LOCAL-00001" summary="java8新特性之：lambda 2.0">
+      <created>1590206441931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590206441931</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java8新特性之：lambda 3.0">
+      <created>1590286439321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590286439321</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java8新特性之：stream整合">
+      <created>1590486578969</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590486578969</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java8新特性之：lambda 2.0" />
+    <MESSAGE value="java8新特性之：lambda 3.0" />
+    <MESSAGE value="java8新特性之：stream整合" />
+    <option name="LAST_COMMIT_MESSAGE" value="java8新特性之：stream整合" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1590200726755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590200726755" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1591414023439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1591414023439" />
+    <state x="394" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590486439892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="394" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1590486439892" />
+    <state x="270" y="6" key="CommitChangelistDialog2" timestamp="1590486578251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590486578251" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591157351048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591157351048" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1591415888874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591415888874" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1591415888874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591415888874" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1591415888874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591415888874" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1591415888874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591415888874" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1591412321238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591412321238" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1591412321238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591412321238" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1591412321238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591412321238" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1591412321238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591412321238" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1591160444245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591160444245" />
+    <state x="361" y="0" key="Vcs.Push.Dialog.v2" timestamp="1590486616001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="0" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590486616001" />
+    <state x="510" y="146" key="VcsDiffUtil.ChangesDialog" timestamp="1590206631944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="146" key="VcsDiffUtil.ChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590206631944" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590199523472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590199523472" />
+    <state x="487" y="203" key="git4idea.merge.GitPullDialog" timestamp="1590286549752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1590286549752" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1591160253419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591160253419" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591414124123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591414124123" />
+  </component>
+</project>
